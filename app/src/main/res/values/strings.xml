@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirebaseApp</string>
+    <string name="persona">Nombre</string>
+    <string name="lista">Lista de personas</string>
+</resources>
